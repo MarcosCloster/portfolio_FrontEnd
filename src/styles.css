@@ -1,0 +1,83 @@
+.bg-red{
+
+    background-color: black;
+
+}
+.bg-white{
+
+    background-color: white;
+
+}
+.list-group-item{
+
+    --bs-list-group-bg: transparent;
+
+}
+
+.fa-brands:hover{
+
+    --bs-text-opacity: 1;
+    color: rgb(0, 217, 255) !important;
+
+}
+
+.card{
+
+    margin: 10px;
+
+}
+
+.skills h2{
+
+    margin: 10px;
+
+}
+
+.skills h4{
+
+    text-align: center;
+
+}
+
+.boton_editar{
+
+    margin-left: 14px;
+
+}
+
+.banner{
+
+    position:relative;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.superpuesta {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    width: 19vw;
+
+}
+.editFotoPerfil{
+
+    margin: 0px;
+
+}
+
+.bienvenidos{
+
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5vw;
+    font-family: 'Manrope', 'Kanit', sans-serif;
+    color: black;
+
+
+}
